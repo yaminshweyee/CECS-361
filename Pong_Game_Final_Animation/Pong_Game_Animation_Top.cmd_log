@@ -1,0 +1,65 @@
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Final.ucf -p xc7a100t-csg324-3 "Pong_Game_Animation_Top.ngc" Pong_Game_Animation_Top.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ngd Pong_Game_Animation_Top.pcf 
+par -w -intstyle ise -ol high -mt off Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ncd Pong_Game_Animation_Top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Pong_Game_Animation_Top.twx Pong_Game_Animation_Top.ncd -o Pong_Game_Animation_Top.twr Pong_Game_Animation_Top.pcf -ucf Final.ucf 
+bitgen -intstyle ise -f Pong_Game_Animation_Top.ut Pong_Game_Animation_Top.ncd 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Final.ucf -p xc7a100t-csg324-3 "Pong_Game_Animation_Top.ngc" Pong_Game_Animation_Top.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ngd Pong_Game_Animation_Top.pcf 
+par -w -intstyle ise -ol high -mt off Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ncd Pong_Game_Animation_Top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Pong_Game_Animation_Top.twx Pong_Game_Animation_Top.ncd -o Pong_Game_Animation_Top.twr Pong_Game_Animation_Top.pcf -ucf Final.ucf 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Final.ucf -p xc7a100t-csg324-3 "Pong_Game_Animation_Top.ngc" Pong_Game_Animation_Top.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ngd Pong_Game_Animation_Top.pcf 
+par -w -intstyle ise -ol high -mt off Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ncd Pong_Game_Animation_Top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Pong_Game_Animation_Top.twx Pong_Game_Animation_Top.ncd -o Pong_Game_Animation_Top.twr Pong_Game_Animation_Top.pcf -ucf Final.ucf 
+bitgen -intstyle ise -f Pong_Game_Animation_Top.ut Pong_Game_Animation_Top.ncd 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Final.ucf -p xc7a100t-csg324-3 "Pong_Game_Animation_Top.ngc" Pong_Game_Animation_Top.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ngd Pong_Game_Animation_Top.pcf 
+par -w -intstyle ise -ol high -mt off Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ncd Pong_Game_Animation_Top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Pong_Game_Animation_Top.twx Pong_Game_Animation_Top.ncd -o Pong_Game_Animation_Top.twr Pong_Game_Animation_Top.pcf -ucf Final.ucf 
+bitgen -intstyle ise -f Pong_Game_Animation_Top.ut Pong_Game_Animation_Top.ncd 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Final.ucf -p xc7a100t-csg324-3 "Pong_Game_Animation_Top.ngc" Pong_Game_Animation_Top.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ngd Pong_Game_Animation_Top.pcf 
+par -w -intstyle ise -ol high -mt off Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ncd Pong_Game_Animation_Top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Pong_Game_Animation_Top.twx Pong_Game_Animation_Top.ncd -o Pong_Game_Animation_Top.twr Pong_Game_Animation_Top.pcf -ucf Final.ucf 
+bitgen -intstyle ise -f Pong_Game_Animation_Top.ut Pong_Game_Animation_Top.ncd 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "Pong_Game_Animation_Top.ngc" Pong_Game_Animation_Top.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ngd Pong_Game_Animation_Top.pcf 
+par -w -intstyle ise -ol high -mt off Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ncd Pong_Game_Animation_Top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Pong_Game_Animation_Top.twx Pong_Game_Animation_Top.ncd -o Pong_Game_Animation_Top.twr Pong_Game_Animation_Top.pcf 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "Pong_Game_Animation_Top.ngc" Pong_Game_Animation_Top.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ngd Pong_Game_Animation_Top.pcf 
+par -w -intstyle ise -ol high -mt off Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ncd Pong_Game_Animation_Top.pcf 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc PGA.ucf -p xc7a100t-csg324-3 "Pong_Game_Animation_Top.ngc" Pong_Game_Animation_Top.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ngd Pong_Game_Animation_Top.pcf 
+par -w -intstyle ise -ol high -mt off Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ncd Pong_Game_Animation_Top.pcf 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "Pong_Game_Animation_Top.ngc" Pong_Game_Animation_Top.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ngd Pong_Game_Animation_Top.pcf 
+par -w -intstyle ise -ol high -mt off Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ncd Pong_Game_Animation_Top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Pong_Game_Animation_Top.twx Pong_Game_Animation_Top.ncd -o Pong_Game_Animation_Top.twr Pong_Game_Animation_Top.pcf 
+bitgen -intstyle ise -f Pong_Game_Animation_Top.ut Pong_Game_Animation_Top.ncd 
+xst -intstyle ise -ifn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.xst" -ofn "C:/Users/Laura Rice/Documents/CECS 361/New folder/Final Project/Pong_Game_Final_Animation/Pong_Game_Animation_Top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Pong_Game_Animation.ucf -p xc7a100t-csg324-3 "Pong_Game_Animation_Top.ngc" Pong_Game_Animation_Top.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ngd Pong_Game_Animation_Top.pcf 
+par -w -intstyle ise -ol high -mt off Pong_Game_Animation_Top_map.ncd Pong_Game_Animation_Top.ncd Pong_Game_Animation_Top.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Pong_Game_Animation_Top.twx Pong_Game_Animation_Top.ncd -o Pong_Game_Animation_Top.twr Pong_Game_Animation_Top.pcf -ucf Pong_Game_Animation.ucf 
+bitgen -intstyle ise -f Pong_Game_Animation_Top.ut Pong_Game_Animation_Top.ncd 

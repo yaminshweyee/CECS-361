@@ -1,0 +1,4 @@
+verilog isim_temp "../../VGA/hsync.v"
+verilog isim_temp "pong_graph_animation.v"
+verilog isim_temp "Pong_Game_Animation_Top.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

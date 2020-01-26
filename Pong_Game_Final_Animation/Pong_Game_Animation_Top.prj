@@ -1,0 +1,3 @@
+verilog work "../../VGA/hsync.v"
+verilog work "pga.v"
+verilog work "Pong_Game_Animation_Top.v"

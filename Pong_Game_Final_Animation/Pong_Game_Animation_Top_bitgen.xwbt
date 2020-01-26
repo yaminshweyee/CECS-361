@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Laura Rice\Documents\CECS 361\New folder\Final Project\Pong_Game_Final_Animation\Pong_Game_Animation_Top.ncd
+OUTFILE=C:\Users\Laura Rice\Documents\CECS 361\New folder\Final Project\Pong_Game_Final_Animation\Pong_Game_Animation_Top.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\Users\Laura Rice\Documents\CECS 361\New folder\Final Project\Pong_Game_Final_Animation
+LICENSE=WebPack
+USER_INFO=211472525_0_0_732
