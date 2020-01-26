@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {C:/Users/Laura Rice/Documents/CECS 361/HW1/dff.v} -lang verilog -prj HW1 -o dff.spl -module dff -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 dff.spl {C:/Users/Laura Rice/Documents/CECS 361/HW1/dff.sym} 

@@ -1,0 +1,10 @@
+[Inputs]
+sel
+=A[19:0]=
+=B[19:0]=
+[Outputs]
+=D[19:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel mux
+
